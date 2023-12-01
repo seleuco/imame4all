@@ -1,6 +1,6 @@
-## MAME4droid (0.37b5): Privacy policy
+## MAME4droid (0.37b5) / Xpectroid : Privacy policy
 
-Welcome to the MAME4droid (0.37b5) Emulator app for Android!
+Welcome to the MAME4droid (0.37b5) or Xpectroid Emulator app for Android!
 
 This is an open source Android app developed by Seleuco (D.Valdeita). The source code is available on GitHub; the app is also available on Google Play.
 
